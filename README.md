@@ -20,9 +20,10 @@ It is designed to achieve the following objectives:
 1. To computerize all details regarding patient details. 
 2. Scheduling the appointment of patient with doctors to make it convenient for both. 
 3. Scheduling the services of specialized doctors and emergency properly,
- so that facilities provided by hospital are fully utilized in effective and efficient manner.
+so that facilities provided by hospital are fully utilized in effective and efficient manner.
  
- 
+Data Structures used: Priority Queues
+
 Functionality:
 
 Our project mainly focusses on keeping track of patients who are admitted
