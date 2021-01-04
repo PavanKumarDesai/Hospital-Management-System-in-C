@@ -1,0 +1,9 @@
+//sample patients record
+
+All Patients Admitted:
+
+Naveen Gowda
+Manu L
+pavan kumar
+bob bobby
+ashay g
