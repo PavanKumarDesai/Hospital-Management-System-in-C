@@ -69,7 +69,9 @@ Drawback:
 	
 (Note: This was tested on Windows10,
 gcc --version - gcc (MinGW.org GCC-8.2.0-1) 8.2.0)
+
 Steps to Run:
 --> gcc main.c
 --> a
+
 (after successfull completion of execution, a local file named "patients.txt" gets created, which contains the records of patient)
